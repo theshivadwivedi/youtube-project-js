@@ -1,5 +1,5 @@
 import { timeStamp } from "console";
-import mongoose,{Schema, schema} from "mongoose";
+import mongoose,{Schema} from "mongoose";
 import mongooseAggregatePaginate from "mongoose-aggregate-paginate-v2";
 import { type } from "os";
 
